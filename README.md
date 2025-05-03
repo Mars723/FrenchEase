@@ -17,8 +17,8 @@ FrenchEase是一款专为中文用户打造的法语学习应用，完美匹配E
 
 ## 常见问题
 
-如有使用问题，请发送邮件至：[your-email@example.com](mailto:your-email@example.com)
+如有使用问题，请发送邮件至：[bart_cheng@outlook.com](mailto:bart_cheng@outlook.com)
 
 ## 版权信息
 
-© 2024 FrenchEase. 保留所有权利。
+© 2025 FrenchEase. 保留所有权利。
